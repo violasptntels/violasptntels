@@ -41,20 +41,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=violasptntels&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violasptntels&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=violasptntels&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violasptntels&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=violasptntels&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=violasptntels&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophy
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=violasptntels&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=violasptntels&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&v=1" />
 </p>
+
 
 ---
 
